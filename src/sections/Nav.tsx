@@ -42,7 +42,7 @@ function Nav() {
               </div>
             </div>
             <ButtonLink
-              href="https://play.google.com"
+              href="https://www.mediafire.com/file/5lg4gvkc3obrc2b/Henstack.apk/file"
               target="_blank"
               children={"Install Henstack"}
               className="active:bg hidden rounded-xl bg-gray-800 px-5 py-3 text-white hover:bg-gray-900 active:bg-gray-600 sm:flex"
