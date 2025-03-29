@@ -35,7 +35,7 @@ function Footer() {
                 height="30px"
               />
             </a>
-            <a href="https://www.linkedin.com" target="_blank">
+            <a href="mailto:henrydustin95@gmail.com" target="_blank">
               <img
                 src={Linkedin}
                 alt="Linkedin logo"

@@ -4,22 +4,10 @@ import StoreLinks, { BtnTypes } from "../common/StoreLinks";
 function Reviews() {
   const slides = [
     {
-      src: "https://images.unsplash.com/photo-1595986630530-969786b19b4d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      text: '"Kobodrop has helped me send and receive money with little to no complications. It´s what everyone who wants to be on top of their money needs!"',
-      name: "Haruka Sato",
-      country: "Japan",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1554196038-950a8ab51827?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      text: '"Using Kobodrop has streamlined my financial transactions like never before. Highly recommended for anyone looking to simplify their finances!"',
-      name: "Elena Rodriguez",
-      country: "Spain",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      text: '"Henstack has made it easy for me to connect and share with others without any complications. It’s the perfect app for anyone looking to enhance their social media experience!"',
-      name: "Thomas Morgan",
-      country: "USA",
+      src: "https://previews.dropbox.com/p/thumb/ACnxh7hCE--4bXKDcIPR0QowDnKttgl-X19V9iBPGFP7MCqGwUrYQTlon0JC_CRRV__dkR9yhdLCt8oiO4yS__VxcPCYs4HGgbSB1woalfqy99h6W11j4XEwCGLQyIKwMuHsqqaon1KrHG2Cnv0TUM0UaZqH5-2tLBK2giaFWaBL4_7djrPct48CfbbdL22jD6vWxHBqVtdqG3gApcUj7pUzop951bWfmUnGS8eTyWsO0xfABeQP7YG3CHv5wrvl-dVzHJaGB81iqUweaRd8XJ53wvQfFp-x7-0BCIRY_c_BA4rlm2vZEcVQi3eojgvEOhYT3XW5K2YPQxMujK08vd9e/p.jpeg",
+      text: '"Whether you re posting a photo of your morning coffee or showcasing your latest vacation adventures, Henstack offers a vibrant community where creativity thrives."',
+      name: "Emmanuel Ita Mkpa",
+      country: "Nigerian",
     },
   ];
   return (
